@@ -156,10 +156,10 @@ form img {
   }
 
   #chat_container {
-    height: 85vh;
+    height: 85%;
   }
 
   form {
-    /* height: 15vh; */
+    height: 15%;
   }
 }
