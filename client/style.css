@@ -151,7 +151,10 @@ form img {
 }
 
 @media only screen and (max-width: 768px) {
+  #chat_container{
+    height: 80vh;
+  }
   form {
-    margin-bottom: 40px !important;
+    height: 20vh;
   }
 }
